@@ -2,16 +2,16 @@
 {
     font-size: 18px;
     font-family: 'Roboto', 'Intern', sans-serif, 'Trebuchet MS'; 
-    --text-primary: rgb(140, 159, 159);
-    --text-secondary: rgb(162, 226, 228);
-    --bg-primary: #24242e;
-    --bg-secondary: #151517;
+    --text-primary: #CD0000;
+    --text-secondary: rgb(255, 255, 255);
+    --bg-primary: #CD0000;
+    --bg-secondary: #2C3095;
 }
 
 body
 {
     color: black;
-    background-color: #efefff;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
@@ -100,7 +100,7 @@ main
 
 .navbar:hover 
 {
-    height: 7.5rem;
+    height: 5.5rem;
 }
 
 .navbar:hover .link-text 
@@ -110,12 +110,12 @@ main
 
 .fa-primary 
 {
-    color: #7fffd4;
+    color: #ffffff;
 }
 
 .fa-secondary 
 {
-    color: #45a887;
+    color: #00ffaa;
 }
 
 .fa-primary,
