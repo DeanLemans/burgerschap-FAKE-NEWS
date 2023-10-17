@@ -35,7 +35,7 @@ body::-webkit-scrollbar-thumb
 main
 {
     margin-left: 1rem;
-    padding: 4rem 1rem 1rem 1rem;
+    padding: 3.5rem 1rem 1rem 1rem;
 }
 
 /*navbar things*/
@@ -90,8 +90,8 @@ main
 
 .link-text 
 {
-    display: none;
     margin-left: 1rem;
+    color: #ffffff;
 }
 
 .nav-link svg 
