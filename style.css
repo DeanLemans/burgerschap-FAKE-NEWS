@@ -39,7 +39,7 @@ body::-webkit-scrollbar-thumb
 main
 {
     margin-left: 1rem;
-    padding: 3.5rem 1rem 1rem 1rem;
+    padding: 3rem 1rem 1rem 1rem;
 }
 
 /*navbar things*/
@@ -93,7 +93,6 @@ main
 .nav-link:hover
 {
     filter: grayscale(0%) opacity(1);
-    background: var(--bg-secondary);
     color: var(--text-secondary);
 }
 
