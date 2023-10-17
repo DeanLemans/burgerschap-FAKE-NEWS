@@ -1,3 +1,7 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
 :root
 {
     font-size: 18px;
@@ -65,7 +69,12 @@ main
     width: 100%;
     color: #ffffff;
 }
-
+.comm{
+    width: auto;
+    height: auto;
+    text-decoration: none;
+    color:black;
+}
 .nav-item:last-child
 {
     margin-right: auto;
