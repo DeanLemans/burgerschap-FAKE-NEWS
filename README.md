@@ -1,2 +1,2 @@
-# burgerschap-FAKE-NEWS
- opdracht burgerschap fake news
+# burgerschap-FAKE-NEWS opdracht
+ gemaakt door: Dean, Luke, Nick, Niek
