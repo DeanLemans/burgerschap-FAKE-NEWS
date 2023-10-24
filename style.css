@@ -133,3 +133,9 @@ main
 {
     transition: var(--transition-speed);
 }
+
+#krant 
+{
+    margin: 0px 0px 0px 0px;
+    float: left;
+}
